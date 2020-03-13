@@ -1,4 +1,4 @@
-# https://f1tzy.github.io/duck.github.io/
+# https://f1tzy.github.io/snake.github.io/
 
 ## snake game
 
