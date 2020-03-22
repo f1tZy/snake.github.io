@@ -37,7 +37,7 @@ function getRandomInt(min, max) {
       //замедляем кадры(фпс) до с 60 до 10
       requestAnimationFrame(loop);
       //игровой код выполнится один раз из шести, а пока переменная count меньше шести, код выполняться не будет
-      if (++count < 40) {
+      if (++count < 60) {
         return;
       }
       
