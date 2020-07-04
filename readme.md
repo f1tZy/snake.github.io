@@ -1,5 +1,8 @@
-# https://f1tzy.github.io/snake.github.io/
+# [Ссылка на игру](https://f1tzy.github.io/snake.github.io/)
 
-## snake game
+# snake game
 
-v 0.0.1
+Версия проекта: v 1.0.2
+
+## Описание:
+Фан игра, змейка :) кто её не любит?
